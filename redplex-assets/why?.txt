@@ -4,3 +4,6 @@ Directory as of 4/28/2020
 - Main logo
 - Main logo no background
 - Redplex header BG
+Redplex announcements:
+  - UHC release 
+
