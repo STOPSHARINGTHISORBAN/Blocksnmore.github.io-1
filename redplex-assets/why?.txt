@@ -1,1 +1,6 @@
 this is to keep all the image assets for the redplex forums website
+
+Directory as of 4/28/2020
+- Main logo
+- Main logo no background
+- Redplex header BG
